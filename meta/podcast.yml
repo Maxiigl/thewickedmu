@@ -1,0 +1,43 @@
+name: The Wicked Mu
+id: thewickedmu
+subtitle: Der Mathe und Physik Podcast
+language: de-de
+explicit: no
+email: thewickedmu@googlemail.com
+twitter_name: thewickedmu
+facebook_id: 218588358165925
+facebook_url: http://www.facebook.com/pages/the-wicked-mu/218588358165925
+authors:
+    - Stephan Kulla
+    - Nils Hansen
+homepage: http://homepages.physik.uni-muenchen.de/~Stephan.Kulla/thewickedmu/
+episode_prefix: folge
+
+target_formats:
+    audio:
+        - ogg
+        - mp3
+        - m4a
+    picture:
+        - png
+    video:
+        - mp4
+        - ogv
+        - webm
+
+input_formats:
+    audio:
+        - wav
+        - flac
+        - aif
+    picture:
+        - jpg
+        - png
+    video:
+        - wmv
+
+personal_media_dirs:
+    - outtakes
+    - unpublished
+
+genre: Speech

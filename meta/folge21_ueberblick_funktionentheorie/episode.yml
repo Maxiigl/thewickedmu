@@ -1,0 +1,27 @@
+name: Professorengespräch zur Funktionentheorie
+subtitle: Überblick zur Vorlesung Funktionentheorie mit Herrn Prof. Dr. Pickl
+date: 2011-07-27 16:00:00
+
+timeline:
+    - [ link, '00:00:20', {
+          name: 'Prof. Peter Pickl',
+          url : 'http://www.mathematik.uni-muenchen.de/~pickl/'
+      }]
+    - [ chapter, '00:01:51', 'Was ist Funktionentheorie?' ]
+    - [ chapter, '00:03:50', 'Was ist das Besondere der Differenzierbarkeit in der Funktionentheorie' ]
+    - [ chapter, '00:08:55', 'Komplexe Differenzierbarkeit ist ein relativ starker Begriff' ]
+    - [ chapter, '00:10:29', 'Was bedeutet „holomorph“?' ]
+    - [ chapter, '00:11:08', 'Welche Eigenschaften besitzen holomorphe Funktionen?' ]
+    - [ anmerkung, '00:11:47', 'Die aufgezählten Eigenschaften gelten für holomorphe Funktionen auf offene und zusammenhängende Definitionsbereiche' ]
+    - [ chapter, '00:15:29', 'Die Reihenentwicklung holomorpher Funktionen' ]
+    - [ chapter, '00:16:30', 'Unterschied zwischen Laurentreihe und Taylorreihe' ]
+    - [ chapter, '00:17:28', 'Anwendung der Funktionentheorie' ]
+    - [ chapter, '00:19:11', 'Der Residuensatz' ]
+    - [ chapter, '00:20:33', 'Anwendung der Funktionentheorie in der Geometrie' ]
+    - [ chapter, '00:23:10', 'Anwendung der Funktionentheorie in der Physik' ]
+    - [ chapter, '00:26:33', 'Historisches zur Funktionentheorie' ]
+    - [ chapter, '00:28:36', 'Anwendung der Funktionentheorie in der Mathematik' ]
+
+categories:
+    - funktionentheorie
+    - professoreninterview

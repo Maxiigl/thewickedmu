@@ -1,0 +1,25 @@
+name: Tutoriumsblatt 4
+subtitle: Lösungshinweise zum Tutoriumsblatt 4, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-06-07 15:30:00
+
+links:
+    - name: 'Das 4. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt4t.pdf'
+    - name: 'Wikipedia: Satz von Levi'
+      url : 'http://de.wikipedia.org/wiki/Satz_von_der_monotonen_Konvergenz'
+    - name: 'Mathe für Nicht-Freaks: Wenn Beweis vom Himmel fallen'
+      url : 'http://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Beweis#Wenn_Beweise_vom_Himmel_fallen'
+
+timeline:
+    - [ chapter, '00:01:40', 'Aufgabe 12' ]
+    - [ chapter, '00:30:22', 'Aufgabe 13 (a)' ]
+    - [ chapter, '00:34:40', 'Aufgabe 13 (b)' ]
+    - [ chapter, '00:35:38', 'Aufgabe 13 (c)' ]
+    - [ chapter, '00:42:40', 'Aufgabe 14 (a)' ]
+    - [ chapter, '00:52:57', 'Aufgabe 14 (b)' ]
+    - [ chapter, '00:57:17', 'Aufgabe 14 (c)' ]
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - loesungen

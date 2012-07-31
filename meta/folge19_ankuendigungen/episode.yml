@@ -1,0 +1,31 @@
+name: Ankündigungen
+subtitle: Allgemeine Ankündigungen zu diesem Podcast
+date: 2011-07-17 15:00:00
+
+timeline:
+    - [ chapter, '00:00:35', 'Unsere neue Homepage' ]
+    - [ link, '00:00:50', {
+          name: 'Link zu unserer neuen Homepage',
+          url : 'http://homepages.physik.uni-muenchen.de/~Stephan.Kulla/thewickedmu/'
+      }]
+    - [ chapter, '00:07:19', 'Formate, die wir einführen wollen' ]
+    - [ chapter, '00:09:30', 'Ihr könnt auch bei uns mitmachen' ]
+    - [ link, '00:10:20', {
+          name: 'So könnt ihr uns kontaktieren',
+          url : 'http://homepages.physik.uni-muenchen.de/~Stephan.Kulla/thewickedmu/kontakt.html'
+      }]
+    - [ chapter, '00:10:36', 'So geht es in den nächsten Wochen weiter' ]
+    - [ chapter, '00:12:00', 'The Wicked Mu auf LMUCast und Dankessagungen' ]
+    - [ chapter, '00:13:40', 'ITunesU' ]
+    - [ link, '00:14:00', {
+          name: 'ITunesU',
+          url : 'http://www.apple.com/education/itunes-u/'
+      }]
+    - [ chapter, '00:15:00', 'Workshop zum Projekt „Mathe für Nicht-Freaks“' ]
+    - [ link, '00:15:43', {
+          name: 'Infos zum Workshop und zur Anmeldung',
+          url : 'http://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Workshop:_11.08.2011'
+      }]
+
+categories:
+    - news

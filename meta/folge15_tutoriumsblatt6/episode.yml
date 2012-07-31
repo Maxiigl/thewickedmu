@@ -1,0 +1,27 @@
+name: Tutoriumsblatt 6
+subtitle: Lösungshinweise zum Tutoriumsblatt 6, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-06-19 20:30:00
+
+links:
+    - name: 'Das 6. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt6t.pdf'
+    - name: 'Wikipedia: Additionstheoreme vom Sinus und Kosinus'
+      url : 'http://de.wikipedia.org/wiki/Sinus_und_Kosinus#Additionstheoreme'
+    - name: 'Wikipedia: Geometrische Reihe'
+      url : 'http://de.wikipedia.org/wiki/Geometrische_Reihe'
+    - name: 'Mathe für Nicht-Freaks: Geometrische Summenformel'
+      url : 'http://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Summe_und_Produkt#Geometrische_Summenformel'
+
+timeline:
+    - [ chapter, '00:00:37', 'Aufgabe 18 (a)' ]
+    - [ chapter, '00:12:41', 'Aufgabe 18 (b)' ]
+    - [ chapter, '00:24:50', 'Aufgabe 19 (a)' ]
+    - [ chapter, '00:32:46', 'Aufgabe 19 (b)' ]
+    - [ chapter, '00:52:54', 'Aufgabe 19 (c)' ]
+    - [ chapter, '00:57:15', 'Aufgabe 20 (a)' ]
+    - [ chapter, '01:08:30', 'Aufgabe 20 (b)' ]
+
+categories:
+    - mathe4_sose2011
+    - funktionentheorie
+    - loesungen

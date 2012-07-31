@@ -1,0 +1,6 @@
+[submodule "source/python_developer_console"]
+	path = source/python_developer_console
+	url = https://github.com/kulla/python_developer_console.git
+[submodule "source/babsi"]
+	path = source/babsi
+	url = https://github.com/kulla/babsi.git

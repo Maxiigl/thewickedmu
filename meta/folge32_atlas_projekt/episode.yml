@@ -1,0 +1,17 @@
+name: Das ATLAS-Projekt
+subtitle: Interview mit Johannes Ebke und Christopher Schmitt über das ATLAS-Projekt im LHC am CERN, ihre Arbeit und der Kern- und Teilchenphysik.
+date: 2011-11-09 02:30:00
+
+links:
+    - name: 'Website des ATLAS-Experiments'
+      url : 'http://atlas.ch/'
+    - name: 'Website der ATLAS-Collaboration'
+      url : 'http://atlas.web.cern.ch/Atlas/Collaboration/'
+    - name: 'Geant4 - Toolkit um Wege und Interaktionen von Teilchen durch Materie zu simulieren'
+      url : 'http://geant4.cern.ch/'
+    - name: 'Ganga - eine in Python geschriebenes Grid-User-Interface'
+      url : 'http://ganga.web.cern.ch/ganga/'
+
+categories:
+    - kernundteilchen
+    - studenteninterview

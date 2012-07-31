@@ -1,0 +1,35 @@
+name: Isolierte Singularitäten
+subtitle: Erklärungen zum Kapitel Isolierte Singularitäten, Abschnitt Funktionentheorie der Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-07-17 17:00:00
+
+timeline:
+    - [ chapter, '00:00:40', 'Zyklen (Definition 2.5.1)' ]
+    - [ korrektur, '00:03:30', 'Das erste Beispiel ist noch kein Zyklus, sondern nur eine Kette' ]
+    - [ chapter, '00:06:45', 'Beispiel eines Zyklus' ]
+    - [ anmerkung, '00:18:26', 'Anstatt „nicht stetig“ meinte Kulla „stückweise stetig“' ]
+    - [ korrektur, '00:18:30', 'Es ist nicht immer möglich die Teilkurven eines Zykluses so anzuordnen, dass eine geschlossene, stückweise stetige Kurve entsteht' ]
+    - [ chapter, '00:18:50', 'Die Spur eines Zyklus' ]
+    - [ chapter, '00:21:00', 'Umlaufzahl (Definition 2.5.2)' ]
+    - [ anmerkung, '00:22:14', 'Anstatt „Kurve“ meinte Kulla „geschlossene Kurve“' ]
+    - [ chapter, '00:30:20', 'Die Integralformel für die Umlaufzahl' ]
+    - [ chapter, '00:33:20', 'nullhomologe Kurven (Definition 2.5.4)' ]
+    - [ chapter, '00:41:05', 'verallgemeinerter Cauchyscher Integralsatz (Satz 2.5.5)' ]
+    - [ anmerkung, '00:42:12', 'Nils meinte: Integrale über nullhomologe geschlossene Kurven ist Null' ]
+    - [ chapter, '00:46:40', 'Kreisringe und Zerlegung einer Funktion in Haupt- und Nebenteil (Definition 2.5.6 und Satz 2.5.8)' ]
+    - [ chapter, '00:50:00', 'Herleitung der Laurentreihe' ]
+    - [ korrektur, '00:53:50', 'Ursprung des zweiten Kreises ist 0 und nicht z0' ]
+    - [ chapter, '00:58:50', 'Die Laurentreihenentwicklung (Folgerung 2.5.9)' ]
+    - [ chapter, '01:02:20', 'Isolierte Singularitäten' ]
+    - [ chapter, '01:05:30', 'Beispiel einer Funktion mit hebarer Singularität bei Null' ]
+    - [ chapter, '01:10:00', 'Beispiel einer Funktion mit Polstelle bei Null' ]
+    - [ chapter, '01:11:55', 'Beispiel einer Funktion mit wesentlicher Singularität bei Null' ]
+    - [ chapter, '01:14:00', 'Verhalten der drei Funktionen in der Singularität' ]
+    - [ chapter, '01:18:15', 'Zusammenfssung: Hebare Singularität' ]
+    - [ chapter, '01:22:50', 'Zusammenfssung: Pollstellen' ]
+    - [ chapter, '01:27:40', 'Zusammenfssung: Wesentliche Singularität' ]
+    - [ chapter, '01:31:20', 'Die Pollstellenordnung' ]
+
+categories:
+    - funktionentheorie
+    - mathe4_sose2011
+    - vorlesung

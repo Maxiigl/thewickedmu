@@ -1,0 +1,17 @@
+name: Hyperreelle Zahlen
+subtitle: 'Über infinitesimal kleine und unendlich große Zahlen: Die Konstruktion hyperreeller Zahlen in der Nichtstandardanalysis'
+date: 2011-10-03 11:50:00
+
+links:
+    - name: 'Buch zur Nichstandardanalysis von Jerome Keisler'
+      url : 'http://www.math.wisc.edu/~keisler/calc.html'
+    - name: 'Wikipedia: Hyperreelle Zahl'
+      url : 'http://de.wikipedia.org/wiki/Hyperreelle_Zahl'
+    - name: 'Wikipedia: Nichtstandardanalysis'
+      url : 'http://de.wikipedia.org/wiki/Nichtstandardanalysis'
+    - name: 'englische Wikipedia: Criticism of non-standard analysis'
+      url : 'http://en.wikipedia.org/wiki/Criticism_of_non-standard_analysis'
+
+categories:
+    - nichtstandardanalysis
+    - studenteninterview

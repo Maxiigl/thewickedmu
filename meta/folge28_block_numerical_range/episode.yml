@@ -1,0 +1,17 @@
+name: Block numerical range
+subtitle: Interview mit Dirk Kretschmann über seine Bachelorarbeit zum Thema block numerical range
+date: 2011-09-29 14:00:00
+
+links:
+    - name: 'Wikipedia: Numerischer Wertebereich'
+      url : 'http://de.wikipedia.org/wiki/Numerischer_Wertebereich'
+    - name: 'Wikipedia: Eigenwertproblem'
+      url : 'http://de.wikipedia.org/wiki/Eigenwertproblem'
+    - name: 'Wikipedia: Dualraum'
+      url : 'http://de.wikipedia.org/wiki/Dualraum'
+    - name: 'Wikipedia: Hausdorff-Metrik'
+      url : 'http://de.wikipedia.org/wiki/Hausdorff-Abstand'
+
+categories:
+    - funktionalanalysis
+    - studenteninterview

@@ -1,0 +1,15 @@
+name: Der Residuensatz
+subtitle: Anschauliche Herleitung des Residuensatzes, Abschnitt Funktionentheorie zur Vorlesung Mathematik IV (Lehramt Gymnasium)
+date: 2011-07-23 15:00:00
+
+timeline:
+    - [ chapter, '00:01:48', 'Die Laurentreihe und das Residuum' ]
+    - [ chapter, '00:07:36', 'Anmerkung zum Unterschied zwischen Zyklen und geschlossene Kurven' ]
+    - [ chapter, '00:09:13', 'Verallgemeinerung für „verformte“ geschlossene Kurven' ]
+    - [ chapter, '00:19:00', 'Verallgemeinerung für Singularität, die mehrmals umlaufen wird' ]
+    - [ chapter, '00:27:19', 'Verallgemeinerung für mehrere Singularitäten' ]
+
+categories:
+    - funktionentheorie
+    - mathe4_sose2011
+    - vorlesung

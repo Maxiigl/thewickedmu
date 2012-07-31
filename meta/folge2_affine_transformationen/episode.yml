@@ -1,0 +1,18 @@
+name: Satz über affine Transformationen, erstes Tutoriumsblatt
+subtitle: Satz über affine Transformationen, erstes Tutoriumsblatt, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-05-10 20:00:00
+
+links:
+    - name: 'erstes Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt1t.pdf'
+    - name: 'Überblick Maßtheorie'
+      url : 'http://kulla.me/de/lehre/tutorium_mathe4_sose2011/ueberblick_masstheorie/ueberblick_masstheorie.pdf'
+    - name: 'Zusammenfassung: Wie beweist man, wann etwas offen oder abgeschlossen ist?'
+      url : 'http://kulla.me/de/lehre/tutorium_mathe3_wise2010-2011/abgeschlossen_offen/abgeschlossen_offen.pdf'
+    - name: 'Zusammenfassung: Eigenschaften linearer Abbildungen zwischen endlichdimensionalen Vektorräumen'
+      url : 'http://kulla.me/de/artikel/eigenschaften_surjektiver_und_injektiver_linearer_abbildungen/'
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - vorlesung

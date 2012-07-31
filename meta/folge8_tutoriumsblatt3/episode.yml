@@ -1,0 +1,21 @@
+name: Tutoriumsblatt 3
+subtitle: Lösungshinweise zum Tutoriumsblatt 3, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-05-27 14:45:00
+
+links:
+    - name: 'Das 3. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt3t.pdf'
+    - name: 'Wikipedia: Integration durch Substitution'
+      url : 'http://de.wikipedia.org/wiki/Integration_durch_Substitution'
+
+timeline:
+    - [ chapter, '00:00:20', 'Aufgabe 9 (a)' ]
+    - [ chapter, '00:14:50', 'Aufgabe 9 (b)' ]
+    - [ chapter, '00:16:40', 'Aufgabe 10' ]
+    - [ chapter, '00:31:00', 'Aufgabe 11 (a)' ]
+    - [ chapter, '00:35:45', 'Aufgabe 11 (b)' ]
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - loesungen

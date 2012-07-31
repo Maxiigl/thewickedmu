@@ -1,0 +1,24 @@
+name: Tutoriumsblatt 5
+subtitle: Lösungshinweise zum Tutoriumsblatt 5, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-06-12 14:30:00
+
+links:
+    - name: 'Das 5. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt5t.pdf'
+    - name: 'Arbeitsblatt zu zusammenhängenden Räumen'
+      url : 'http://kulla.me/de/lehre/tutorium_mathe3_wise2010-2011/zusammenhang/zusammenhang.pdf'
+    - name: 'Wikipedia: Zusammenhängender Raum'
+      url : 'http://de.wikipedia.org/wiki/Zusammenh%C3%A4ngender_Raum'
+    - name: 'Wikipedia: Satz von Schwarz'
+      url : 'http://de.wikipedia.org/wiki/Satz_von_Schwarz'
+
+timeline:
+    - [ chapter, '00:00:38', 'Aufgabe 15 (a)' ]
+    - [ chapter, '00:06:13', 'Aufgabe 15 (b)' ]
+    - [ chapter, '00:07:42', 'Aufgabe 16' ]
+    - [ chapter, '00:14:03', 'Aufgabe 17' ]
+
+categories:
+    - mathe4_sose2011
+    - funktionentheorie
+    - loesungen

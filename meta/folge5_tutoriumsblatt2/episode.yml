@@ -1,0 +1,21 @@
+name: Tutoriumsblatt 2
+subtitle: Lösungshinweise Tutoriumsblatt 2, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-05-21 20:00:00
+
+links:
+    - name: 'Das 2. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt2t.pdf'
+
+timeline:
+    - [ chapter, '00:02:14', 'Messbarkeit speziell 6c aber auch 6a,6b' ]
+    - [ chapter, '00:15:08', 'Integrierbarkeit 6a+6b' ]
+    - [ chapter, '00:19:29', 'Integrierbarkeit 6c' ]
+    - [ chapter, '00:23:30', 'Aufgabe 7' ]
+    - [ chapter, '00:31:34', 'Aufgabe 8 (a)' ]
+    - [ chapter, '00:34:41', 'Aufgabe 8 (b)' ]
+    - [ chapter, '00:36:05', 'Aufgabe 8 (c)' ]
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - loesungen

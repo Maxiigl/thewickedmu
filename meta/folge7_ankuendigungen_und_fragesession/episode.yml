@@ -1,0 +1,17 @@
+name: Ankündigungen und Fragesession (Nullfortsetzung und punktweise Konvergenz)
+subtitle: Allgemeine Ankündigungen zum Podcast und Beantwortung von Hörerfragen
+date: 2011-05-2011 14:00:00
+
+links:
+    - name: 'Unser Twitter-Account'
+      url : 'http://twitter.com/#!/thewickedmu'
+
+timeline:
+    - [ chapter, '00:03:20', 'Nullfortsetzung' ]
+    - [ chapter, '00:17:16', 'punktweise Konvergenz' ]
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - news
+    - fragesession

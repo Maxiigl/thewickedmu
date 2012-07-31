@@ -1,0 +1,16 @@
+name: Potenzreihe und komplexe Exponentialfunktion
+subtitle: Potenzreihe und komplexe Exponentialfunktion, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-06-13 18:00:00
+
+links:
+    - name: 'Wikipedia: Taylorreihe'
+      url : 'http://de.wikipedia.org/wiki/Taylorreihe'
+
+timeline:
+    - [ chapter, '00:00:28', 'Potenzreihe' ]
+    - [ chapter, '00:15:41', 'komplexe Exponentialfunktion' ]
+
+categories:
+    - mathe4_sose2011
+    - funktionentheorie
+    - vorlesung

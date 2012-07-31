@@ -1,0 +1,21 @@
+name: Einführung zu Gewöhnlichen Differentialgleichungen
+subtitle: Einführung in das Kapitel Gewöhnliche Differentialgleichungen, Vorlesung Mathematik IV (Lehramt Gymnasium)
+date: 2011-07-23 18:00:00
+
+timeline:
+    - [ chapter, '00:00:40', 'Was ist eine Differentialgleichung?' ]
+    - [ chapter, '00:09:15', 'Die Integralgleichung' ]
+    - [ chapter, '00:10:55', 'Wichtige Sätze der Differentialgleichungen' ]
+    - [ chapter, '00:14:10', 'Der Begriff der Lipschitz-Stetigkeit' ]
+    - [ link, '00:18:10', {
+          name: 'Aufgaben zur Lipschitz-Stetigkeit',
+          url : 'http://de.wikibooks.org/wiki/Aufgabensammlung_Mathematik:_Stetigkeit'
+      }]
+    - [ chapter, '00:19:11', 'Folgerungen aus dem Satz von Picard-Lindelöf' ]
+    - [ chapter, '00:25:10', 'Der Existenzsatz von Peano' ]
+    - [ chapter, '00:27:19', 'Beweis vom Satz von Picard-Lindelöf' ]
+
+categories:
+    - dgl
+    - mathe4_sose2011
+    - vorlesung

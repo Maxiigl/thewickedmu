@@ -1,0 +1,30 @@
+name: Gewöhnliche Differentialgleichungen
+subtitle: Professorengespräch mit Herrn Prof. Dürr über die Inhalte der Vorlesung Gewöhnliche Differentialgleichungen und der Bedeutung von Differentialgleichung zur Naturbeschreibung in der Physik
+date: 2011-08-14 01:00:00
+
+authors:
+    - Prof. Dr. Detlef Dürr
+    - Stephan Kulla
+    - Nils Hansen
+
+timeline:
+    - [ link, '00:00:10', {
+          name: 'Prof. Dr. Dürr',
+          url : 'http://www.mathematik.uni-muenchen.de/~duerr/'
+      }]
+    - [ chapter, '00:01:05', 'Wozu sollte man die Vorlesung „Gewöhnliche Differentialgleichungen“ besuchen?' ]
+    - [ chapter, '00:03:35', 'Wie beschreiben Differentialgleichungen Naturphänomene?' ]
+    - [ chapter, '00:06:44', 'Beispiele für Differentialgleichungen im Berufsleben' ]
+    - [ chapter, '00:08:30', 'Über das Lösen von Differentialgleichungen' ]
+    - [ chapter, '00:11:40', 'Was ist für Sie ein wichtiger Punkt der Vorlesung?' ]
+    - [ chapter, '00:12:30', 'Über die Bedeutung von Differentialgleichungen (in der Physik)' ]
+    - [ chapter, '00:27:00', 'Was erwartet einem Studenten in der Vorlesung „Gewöhnliche Differentialgleichungen“' ]
+    - [ chapter, '00:27:44', 'Existenz und Eindeutigkeit von Lösungen' ]
+    - [ korrektur, '00:34:25', 'Das Beispiel mit dem Bleistift, der auf der Spitze steht, ist ein Beispiel für chaotisches Verhalten' ]
+    - [ chapter, '00:36:40', 'Beweisskizze für den Satz von Picard-Lindelöf' ]
+    - [ chapter, '00:39:29', 'Lineare Differentialgleichungen' ]
+    - [ chapter, '00:46:30', 'Nichtlineare Differentialgleichungen, Chaosforschung' ]
+
+categories:
+    - dgl
+    - professoreninterview

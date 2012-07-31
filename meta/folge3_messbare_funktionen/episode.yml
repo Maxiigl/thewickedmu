@@ -1,0 +1,14 @@
+name: Messbare Funktionen
+subtitle: Besprechung zu messbaren Funktionen, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-05-19 01:00:00
+
+links:
+    - name: 'Überblick Maßtheorie'
+      url : 'http://kulla.me/de/lehre/tutorium_mathe4_sose2011/ueberblick_masstheorie/ueberblick_masstheorie.pdf'
+    - name: 'Kapitel zum Urbild im Lehrbuch "Mathe für Nicht-Freaks"'
+      url : 'http://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Abbildung#Anker:Urbild'
+
+categories:
+    - mathe4_sose2011
+    - analysis3
+    - vorlesung

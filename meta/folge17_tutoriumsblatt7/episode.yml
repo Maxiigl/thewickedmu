@@ -1,0 +1,24 @@
+name: Tutoriumsblatt 7
+subtitle: Lösungshinweise zum Tutoriumsblatt 7, Vorlesung „Mathematik IV“ Sommersemester 2011
+date: 2011-06-25 15:00:00
+
+links:
+    - name: 'Das 7. Tutoriumsblatt'
+      url : 'uebungsblaetter/blatt7t.pdf'
+    - name: 'Unser Vimeo-Account'
+      url : 'http://vimeo.com/user7570502'
+
+audio:
+    timeline:
+        - [ chapter, '00:01:22', 'Aufgabe 21 (a)' ]
+        - [ chapter, '00:12:41', 'Aufgabe 21 (b)' ]
+        - [ chapter, '00:21:44', 'Aufgabe 21 (c)' ]
+        - [ chapter, '00:33:53', 'Aufgabe 22' ]
+        - [ chapter, '00:49:41', 'Aufgabe 23 (a)' ]
+        - [ chapter, '00:53:06', 'Aufgabe 23 (b)' ]
+        - [ chapter, '00:59:05', 'Aufgabe 23 (c)' ]
+
+categories:
+    - funktionentheorie
+    - mathe4_sose2011
+    - loesungen
